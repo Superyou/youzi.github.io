@@ -28,18 +28,15 @@ Research Experience
   * Advisor: Prof. Xuehai Qian, University of Southern California
   * Used genetic algorithm to automatically generate extremely high power consumption.
   * Modified gpgpusim simulator to trace the access pattern for gpgpu simulations
-
 * Design of a Specialization BNN Accelerator
   * Advisor: Prof. Shouyi Yin, Institute of Microelectronics
   * Designed an architecture which can efficiently execute the binarized neural computation.
   * Investigated its application in different neural networks to accelerate computation.
-
 * Vehicular behavior algorithm analysis 
   * Advisor: Prof. Shouyi Yin, Institute of Microelectronics
   * Used deep learning algorithms to analyze human behavior while driving a vehicle.
   * Used the deep learning platform “tensorflow” to solve traditional problems, e.g. MNIST classification.
   * Investigated the mechanism behind deep learning algorithms.
-
 * Pilot Assignment Algorithms for Wireless Networks 
   * Advisor: Prof. Wei Feng, Tsinghua University
   * Investigated pilot assignment algorithms to achieve better performance in cellular MIMO systems.
@@ -48,7 +45,6 @@ Research Experience
 
 Internship Experience
 ======
-
 * Summer 2016: Research Intern
   * Cornell University
   * Topic: Implementation of BNN on different platforms
@@ -59,14 +55,6 @@ Internship Experience
   * Supervisor: Lide Duan 
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======

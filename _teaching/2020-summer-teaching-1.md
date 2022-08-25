@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant: EE559 Mathematical Pattern Recognition"
 collection: teaching
 type: "Summer 2020"
 permalink: /teaching/2020-summer-teaching-1
